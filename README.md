@@ -21,16 +21,17 @@
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind,figma,git,github,netlify,vscode&theme=dark&perline=6)](https://skillicons.dev)
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Meshack000&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Meshack000&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="160"/>
-
-<img src="https://streak-stats.demolab.com?user=Meshack000&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=21262d&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="100%"/>
+<a href="https://linkedin.com/in/oppongmpiani" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://behance.net/oppongmeshack" target="_blank">
+  <img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="45"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:oppongmeshack54@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
+</a>
 
 </div>
 
