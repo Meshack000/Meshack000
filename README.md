@@ -21,17 +21,7 @@
 
 <div align="center">
 
-<a href="https://linkedin.com/in/oppongmpiani" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
-&nbsp;&nbsp;
-<a href="https://behance.net/oppongmeshack" target="_blank">
-  <img src="https://img.shields.io/badge/-Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" height="45"/>
-</a>
-&nbsp;&nbsp;
-<a href="mailto:oppongmeshack54@gmail.com" target="_blank">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
+[![My Skills](https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind,figma,git,github,netlify,vscode&theme=dark&perline=6)](https://skillicons.dev)
 
 </div>
 
