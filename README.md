@@ -31,7 +31,7 @@
 
 | Project | Stack | Link |
 |---|---|---|
-| **Zeni** — Student finance app | React, Vite, Figma | [meshack.design/zeni](https://meshack.design/zeni) |
+| **Zeni** — Student finance app | React, Vite, Figma | [bymesh.design/zeni](https://bymesh.design/zeni) |
 | **Jessicare Pharmacy** | React, Vite | Client project |
 | **Adu Tawiah Portfolio** | React, Vite, EmailJS | Client project |
 | **ProNow Agency** | React, Vite, GSAP | Client project |
