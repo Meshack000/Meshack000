@@ -1,49 +1,81 @@
 <div align="center">
 
-# 👋 Hey, I'm Meshack
+# Meshack Oppong
+### UI/UX Designer · Frontend Developer · Creative Problem Solver
 
-**UI/UX Designer & Frontend Developer | Kumasi, Ghana 🇬🇭**
+<p>
+  Building clean interfaces, smooth experiences, and thoughtful digital products.
+</p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://meshack.design)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oppongmpiani)
-[![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/oppongmeshack)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oppongmeshack54@gmail.com)
+<p>
+  <a href="https://meshack.design">
+    <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=safari&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/oppongmpiani">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://behance.net/oppongmeshack">
+    <img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" />
+  </a>
+  <a href="mailto:oppongmeshack54@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Meshack000&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)
+<img src="https://komarev.com/ghpvc/?username=Meshack000&style=for-the-badge&color=111827&labelColor=1f2937&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
 
-## About Me
+## About
 
-I design and build clean, responsive, and user-focused web experiences.  
-My work combines UI/UX design, frontend development, and motion to create interfaces that feel modern and functional.
+I’m a UI/UX designer and frontend developer from Ghana focused on crafting responsive, modern, and intuitive web experiences.  
+I enjoy turning ideas into polished interfaces using design thinking, clean code, and motion.
 
 ---
 
-## Tech Stack
+## What I Do
+
+- UI/UX design for web and digital products.
+- Frontend development with React and modern JavaScript.
+- Responsive layouts with strong attention to detail.
+- Motion and interaction design for engaging user experiences.
+
+---
+
+## Tools I Use
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind,nextjs,figma,git,github,netlify,vscode&theme=dark&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=react,vite,js,html,css,tailwind,nextjs,figma,git,github,netlify,vscode&theme=dark&perline=6)](https://skillicons.dev)
 
 </div>
 
 ---
 
-## Recent Work
+## Selected Work
 
-| Project | Stack | Link |
+| Project | Focus | Stack |
 |---|---|---|
-| **Zeni** — Student finance app | React, Vite, Figma | [View Project](https://bymesh.design/zeni) |
-| **Jessicare Pharmacy** | React, Vite | Client project |
-| **Adu Tawiah Portfolio** | React, Vite, EmailJS | Client project |
-| **ProNow Agency** | React, Vite, GSAP | Client project |
+| **Zeni** | Student finance app design and development | React, Vite, Figma |
+| **Jessicare Pharmacy** | Client website development | React, Vite |
+| **Adu Tawiah Portfolio** | Personal branding portfolio | React, Vite, EmailJS |
+| **ProNow Agency** | Agency website with motion | React, Vite, GSAP |
 
 ---
 
-## Let’s Connect
+## Availability
 
-I'm open to freelance work, collaborations, and creative opportunities.  
-Reach me at [oppongmeshack54@gmail.com](mailto:oppongmeshack54@gmail.com).
+- Open to freelance work.
+- Available for collaborations.
+- Interested in creative and startup projects.
+
+---
+
+<div align="center">
+
+**Let’s build something beautiful together.**  
+[Email me](mailto:oppongmeshack54@gmail.com)
+
+</div>
