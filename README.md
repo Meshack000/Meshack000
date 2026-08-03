@@ -8,7 +8,7 @@
 </p>
 
 <p>
-  <a href="https://meshack.design">
+  <a href="https://bymesh.design">
     <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=safari&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/oppongmpiani">
