@@ -1,12 +1,10 @@
 <div align="center">
 
-👋
+# 👋 Hey, I'm Meshack
 
-# Hey, I'm Meshack
+**UI/UX Designer & Frontend Developer | Kumasi, Ghana 🇬🇭**
 
-**UI/UX Designer & Frontend Developer · Kumasi, Ghana 🇬🇭**
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://mpiani.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://meshack.design)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oppongmpiani)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/oppongmeshack)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oppongmeshack54@gmail.com)
@@ -17,7 +15,14 @@
 
 ---
 
-### 🛠 Tech Stack
+## About Me
+
+I design and build clean, responsive, and user-focused web experiences.  
+My work combines UI/UX design, frontend development, and motion to create interfaces that feel modern and functional.
+
+---
+
+## Tech Stack
 
 <div align="center">
 
@@ -27,17 +32,18 @@
 
 ---
 
-### 🚀 Recent Work
+## Recent Work
 
 | Project | Stack | Link |
 |---|---|---|
-| **Veripass** — QR-based school fee verification | React, Figma | [mpiani.netlify.app/work/veripass](https://mpiani.netlify.app/work/veripass) |
-| **AI Student Hub** — Academic Operating System | Next.js, TypeScript, Tailwind, shadcn/ui | In development |
-| **SureLink** — Hyper-local services platform | React, React Native, Node.js, Socket.IO | Team project |
-| **Zeni** — Student finance app | React, Vite, Figma | [mpiani.netlify.app/work/zeni](https://mpiani.netlify.app/work/zeni) |
+| **Zeni** — Student finance app | React, Vite, Figma | [View Project](https://bymesh.design/zeni) |
+| **Jessicare Pharmacy** | React, Vite | Client project |
+| **Adu Tawiah Portfolio** | React, Vite, EmailJS | Client project |
+| **ProNow Agency** | React, Vite, GSAP | Client project |
 
 ---
 
-<div align="center">
-  <sub>Open to freelance & collaborations · <a href="mailto:oppongmeshack54@gmail.com">oppongmeshack54@gmail.com</a></sub>
-</div>
+## Let’s Connect
+
+I'm open to freelance work, collaborations, and creative opportunities.  
+Reach me at [oppongmeshack54@gmail.com](mailto:oppongmeshack54@gmail.com).
