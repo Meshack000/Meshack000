@@ -6,7 +6,7 @@
 
 **UI/UX Designer & Frontend Developer · Kumasi, Ghana 🇬🇭**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://meshack.design)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=safari&logoColor=white)](https://mpiani.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/oppongmpiani)
 [![Behance](https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white)](https://behance.net/oppongmeshack)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oppongmeshack54@gmail.com)
@@ -31,10 +31,10 @@
 
 | Project | Stack | Link |
 |---|---|---|
-| **Zeni** — Student finance app | React, Vite, Figma | [bymesh.design/zeni](https://bymesh.design/zeni) |
-| **Jessicare Pharmacy** | React, Vite | Client project |
-| **Adu Tawiah Portfolio** | React, Vite, EmailJS | Client project |
-| **ProNow Agency** | React, Vite, GSAP | Client project |
+| **Veripass** — QR-based school fee verification | React, Figma | [mpiani.netlify.app/work/veripass](https://mpiani.netlify.app/work/veripass) |
+| **AI Student Hub** — Academic Operating System | Next.js, TypeScript, Tailwind, shadcn/ui | In development |
+| **SureLink** — Hyper-local services platform | React, React Native, Node.js, Socket.IO | Team project |
+| **Zeni** — Student finance app | React, Vite, Figma | [mpiani.netlify.app/work/zeni](https://mpiani.netlify.app/work/zeni) |
 
 ---
 
